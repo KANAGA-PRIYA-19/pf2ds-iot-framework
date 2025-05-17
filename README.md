@@ -105,6 +105,3 @@ KANAGA PRIYA S
 Email: [kanagask0210@gmail.com](mailto:kanagask0210@gmail.com)
 GitHub: [@KANAGA-PRIYA-19](https://github.com/KANAGA_PRIYA_19)
 
----
-
-Let me know if you want a version that includes deployment instructions (e.g. for GCP or Docker), or if you'd like to localize or shorten it!
